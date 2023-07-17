@@ -1,10 +1,11 @@
-# **Hello World !** I'm Sayan. 
+# **Hello World!** I'm Sayan. 
 
 ## Introduction 👋
 I'm a computer science engineering student interesting in everything Linux & Open Source.
 - I'm currently pursuing B.Tech in IT.
 - I've been learning about Linux since my childhood, and I've recently started contributing to Open Source!
 - I'm mostly interested in Back-End Development & Linux System Administration.
+- Apart from this, I listen to music & play truck simulators in my free time.
 
 ## Technologies 🧱
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-003366?style=for-the-badge&logo=linux&logoColor=FFFFFF&link=https%3A%2F%2Fgithub.com%2Ftorvalds%2Flinux)
@@ -15,7 +16,7 @@ I'm a computer science engineering student interesting in everything Linux & Ope
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-F05032?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)
 <hr>
 
-## Programming Languages
+## Programming Languages </>
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=FFFFFF&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
@@ -29,19 +30,38 @@ I'm a computer science engineering student interesting in everything Linux & Ope
 ![React JS](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 <hr>
 
-## Socials & Blogs
+## Socials & Blogs 🔗
+### My Blogs:
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=FFFFFF&link=https%3A%2F%2Fhashnode.com%2F%40sayan713)
 ![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF&link=https%3A%2F%2Fmedium.com%2F%40sayan713)
 <br>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsayan-de-5360161b7%2F)
+### Socials:
 ![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=FFFFFF&link=https%3A%2F%2Fmastodon.social%2F%40sayan111)
 ![Odysee](https://img.shields.io/badge/Odysee-EF1970?style=for-the-badge&logo=odysee&logoColor=FFFFFF&link=https%3A%2F%2Fodysee.com%2F%40Sayan%3A27d6d4a2a5c6a63452c0f4e735e85c11302c6937)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https%3A%2F%2Fwww.youtube.com%2F%40sayan1122)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561199190459916%2F)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFFFFF&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fe39bpmy567zzexokro0navfky%3Fsi%3Daa6f053aa69e4866)
+<br>
+
+### Connect with me!
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsayan-de-5360161b7%2F)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF&link=https%3A%2F%2Ft.me%2Fsayan7113)
+![Discord](https://img.shields.io/badge/Discord-sayan1-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=%235865F2&color=41454A)
 ![Outlook](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF&link=mailto%3Asayande1122%40outlook.in)
 <hr>
 
-### Just for fun: Linux Distributions I tried!
+## My Github Stats 🔄
+<div align="left">
+    <img width="700dp" src="https://github-readme-stats.vercel.app/api?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="Stats" />
+    <img width="700dp" src="https://github-readme-streak-stats.herokuapp.com/?user=sayande717&theme=highcontrast&hide_border=true" alt="Current Streak" />
+</div>
+<hr>
+
+### My favourites on Spotify! 🎶
+<iframe style="border-radius:12px" width="700dp" src="https://open.spotify.com/embed/playlist/64JhBiQ8YkAKSXeMJ6NjtQ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### Just for fun: Linux Distributions I tried! 🐧
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF&link=https%3A%2F%2Fwww.debian.org%2F)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF&link=https%3A%2F%2Fubuntu.com%2F)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=FFFFFF&link=https%3A%2F%2Flinuxmint.com%2F)
@@ -60,14 +80,3 @@ I'm a computer science engineering student interesting in everything Linux & Ope
 ![Fedora Server](https://img.shields.io/badge/Fedora%20Server-51A2DA?style=for-the-badge&logo=fedora&logoColor=FFFFFF&link=https%3A%2F%2Fwww.fedoraproject.org%2Fserver%2F)
 ![OpenSUSE Tumbleweed](https://img.shields.io/badge/OpenSUSE%20Tumbleweed-73BA25?style=for-the-badge&logo=opensuse&logoColor=FFFFFF&link=https%3A%2F%2Fget.opensuse.org%2Ftumbleweed%2F)
 ![OpenSUSE Leap](https://img.shields.io/badge/OpenSUSE%20Leap-73BA25?style=for-the-badge&logo=opensuse&logoColor=FFFFFF&link=https%3A%2F%2Fget.opensuse.org%2Fleap%2F)
-<hr>
-
-## My Stats 🔄
-<div align="center">
-<img width="700dp" src="https://github-readme-stats.vercel.app/api?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="Stats" />
-</div>
-<div align="center">
-    <img width="350dp" src="https://github-readme-streak-stats.herokuapp.com/?user=sayande717&theme=highcontrast&hide_border=true" alt="Current Streak" />
-    <img width="350dp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&hide_title=true&langs_count=5&layout=compact" alt="Top Languages" />
-</div>
-
