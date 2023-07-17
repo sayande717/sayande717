@@ -53,7 +53,8 @@ I'm a computer science engineering student interesting in everything Linux & Ope
 
 ## My Github Stats 🔄
 <div align="left">
-    <img height="160dp" src="https://github-readme-stats.vercel.app/api?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="Stats" /> <img height="160dp" src="https://github-readme-streak-stats.herokuapp.com/?user=sayande717&theme=highcontrast&hide_border=true" alt="Current Streak" />
+    <img height="150dp" src="https://github-readme-stats.vercel.app/api?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="Stats" />
+    <img height="150dp" src="https://github-readme-streak-stats.herokuapp.com/?user=sayande717&theme=highcontrast&hide_border=true" alt="Current Streak" />
 </div>
 <hr>
 
