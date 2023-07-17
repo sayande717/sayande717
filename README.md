@@ -62,8 +62,8 @@ I'm a computer science engineering student interesting in everything Linux & Ope
 <iframe style="border-radius:12px" width="700dp" src="https://open.spotify.com/embed/playlist/64JhBiQ8YkAKSXeMJ6NjtQ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Just for fun: Linux Distributions I tried! 🐧
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF&link=https%3A%2F%2Fwww.debian.org%2F)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF&link=https%3A%2F%2Fubuntu.com%2F)
+<a href="https://www.debian.org">![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF)</a>
+<a href="https://ubuntu.com">![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)</a>
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=FFFFFF&link=https%3A%2F%2Flinuxmint.com%2F)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF&link=https%3A%2F%2Fwww.kali.org%2F)
 ![Pop_OS!](https://img.shields.io/badge/Pop__OS!-48B9C7?style=for-the-badge&logo=popos&logoColor=FFFFFF&link=https%3A%2F%2Fpop.system76.com%2F)
