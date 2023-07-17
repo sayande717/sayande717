@@ -10,10 +10,11 @@ TODO: PENDING
 
 ## My Stats 🔄
 <div align="center">
-    <img width="600dp" src="https://github-readme-streak-stats.herokuapp.com/?user=sayande717&theme=highcontrast&hide_border=true" alt="Current Streak" />
+<img width="700dp" src="https://github-readme-stats.vercel.app/api?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="Stats" />
 </div>
 <div align="center">
-    <img width="300dp" src="https://github-readme-stats.vercel.app/api?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="Stats" /><img width="300dp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&hide_title=true&langs_count=5&layout=compact" alt="Top Languages" />
+    <img width="350dp" src="https://github-readme-streak-stats.herokuapp.com/?user=sayande717&theme=highcontrast&hide_border=true" alt="Current Streak" />
+    <img width="350dp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayande717&theme=highcontrast&show_icons=true&hide_border=true&hide_title=true&langs_count=5&layout=compact" alt="Top Languages" />
 </div>
 
 
