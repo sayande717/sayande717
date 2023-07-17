@@ -58,9 +58,6 @@ I'm a computer science engineering student interesting in everything Linux & Ope
 </div>
 <hr>
 
-### My favourites on Spotify! 🎶
-<iframe style="border-radius:12px" width="700dp" src="https://open.spotify.com/embed/playlist/64JhBiQ8YkAKSXeMJ6NjtQ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ### Just for fun: Linux Distributions I tried! 🐧
 <a href="https://www.debian.org" target="_blank">![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF)</a>
 <a href="https://ubuntu.com" target="_blank">![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)</a>
