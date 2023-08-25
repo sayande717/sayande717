@@ -8,7 +8,7 @@ I'm a computer science engineering student interesting in everything Linux & Ope
 - Apart from this, I listen to music & play truck simulators in my free time.
 
 ## </> | Some of my work:
-- [Personal Notes & Cheat Sheets](https://github.com/sayande717/notes) | <a class="copy" href="https://github.com/sayande717/notes.git"> Git Clone URL </a> (click to copy)
+- [Personal Notes & Cheat Sheets](https://github.com/sayande717/notes) | [Git Clone URL](https://github.com/sayande717/notes.git)
 - [A blog on GNU/Linux](https://sayan713.hashnode.dev/gnulinux-the-good-the-bad-the-ugly)
 - My Projects [coming soon]
 
