@@ -38,7 +38,7 @@ I'm a computer science engineering student interesting in everything Linux & Ope
 ### Connect with me!
 <a href="https://www.linkedin.com/in/sayan-de-5360161b7" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)</a>
 ![Discord](https://img.shields.io/badge/Discord-sayan1-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=%235865F2&color=41454A)
-<a href="mailto:sayande1122@outlook.in" target="_blank">![Outlook](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF)</a>
+<a href="mailto:sayande717.dev@proton.me" target="_blank">![ProtonMail](https://img.shields.io/badge/MAIL-6F4CFF?style=for-the-badge&logo=protonmail&logoColor=FFFFFF)</a>
 <!-- <a href="https://t.me/sayan7113" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)</a> -->
 <hr>
 
