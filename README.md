@@ -2,7 +2,7 @@
 
 ## 👋 | Introduction:
 I'm a computer science engineering student interesting in everything Linux & Open Source.
-- I'm currently pursuing B.Tech in IT.
+- I'm currently pursuing M.Tech in CSE (AI & ML).
 - I've been learning about Linux since my childhood, and I've recently started contributing to Open Source!
 - I'm mostly interested in Back-End Development & Linux System Administration.
 - Apart from this, I listen to music & play truck simulators in my free time.
